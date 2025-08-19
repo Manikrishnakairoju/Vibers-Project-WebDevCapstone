@@ -28,6 +28,6 @@ A responsive travel planner app built as part of a collaborative full-stack web 
 ## 👥 Team Members
 
 - **Aakash Suryavanshi** – `@AakashSuryavanshi`  
-- **Manikrishna Kairoju** – `@ManikrishnaK`
+- **Manikrishna Kairoju** – `@ManikrishnaKairoju`
 
 ---
