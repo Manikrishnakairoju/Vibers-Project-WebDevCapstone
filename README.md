@@ -1,6 +1,6 @@
 # 🌍 Travel Planner Web Application
 
-A responsive travel planner app built as part of a collaborative full-stack web development project. The goal was to design and develop a multi-functional travel planning tool with intuitive navigation, beautiful UI/UX, and real-time search elements—perfect for users looking to organize their trips with ease.
+A responsive travel planner app "Vibers" built as part of a collaborative full-stack web development project. The goal was to design and develop a multi-functional travel planning tool with intuitive navigation, beautiful UI/UX, and real-time search elements—perfect for users looking to organize their trips with ease.
 
 ---
 
